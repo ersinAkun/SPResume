@@ -5,7 +5,8 @@ const SectionHeader = () => {
   return (
     <div className="section-header">
     <h2>About Me</h2>
-    <a href="#"
+    <a 
+     href="#"
      className="resume-download" 
      data-toggle="tooltip" 
      data-placement="bottom" 

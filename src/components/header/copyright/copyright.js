@@ -1,12 +1,12 @@
-import React from 'react'
-import "./copy-right.css"
+import React from "react";
+import "./copyright.css";
 
 const Copyright = () => {
   return (
     <div className="copyright">
-    <span>© Copyright 2023 Designstub</span>
-  </div>
-  )
-}
+      <span>© Copyright 2018 Designstub</span>
+    </div>
+  );
+};
 
-export default Copyright
+export default Copyright;

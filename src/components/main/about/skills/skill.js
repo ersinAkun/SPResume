@@ -1,4 +1,5 @@
 import React from "react";
+
 const Skill = ({name, value}) => {
   return (
     <>
@@ -19,4 +20,5 @@ const Skill = ({name, value}) => {
     </>
   );
 };
+
 export default Skill;

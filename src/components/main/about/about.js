@@ -3,6 +3,7 @@ import SectionHeader from '../section-header/section-header';
 import "./about.css";
 import Intro from './intro/intro';
 import Skill from './skills/skill';
+import Skills from './skills/skills';
 
 
 
@@ -12,6 +13,7 @@ const About = () => {
         <SectionHeader/>
         <Intro/>
         <Skill/>
+        <Skills/>
     </section>
   )
 }

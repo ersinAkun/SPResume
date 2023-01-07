@@ -8,6 +8,15 @@ const Skills = () => {
         <div className="col-md-6 col-sm-6 col-xs-12 item">
             <Skill/>
         </div>
+        <div className="col-md-6 col-sm-6 col-xs-12 item">
+            <Skill/>
+        </div>
+        <div className="col-md-6 col-sm-6 col-xs-12 item">
+            <Skill/>
+        </div>
+        <div className="col-md-6 col-sm-6 col-xs-12 item">
+            <Skill/>
+        </div>
       </div>
     </div>
   );

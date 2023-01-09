@@ -4,8 +4,8 @@ import "./name.css";
 const Name = () => {
   return (
     <div className="name">
-      <h1>John Doe</h1>
-      <span>UX/UI Designer</span>
+      <h1>Ersin AKUN</h1>
+      <span>Web Developer</span>
     </div>
   );
 };

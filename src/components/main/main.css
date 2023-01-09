@@ -11,7 +11,7 @@
     line-height: 28px;
 }
 
-.main-content section {
+.main-content section {   /* bolum sonlarindaki cizgi icin */
     padding: 60px 70px;
     position: relative;
     border-bottom: solid 1px #EEE;

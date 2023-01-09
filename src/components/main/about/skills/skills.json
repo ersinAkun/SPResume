@@ -1,8 +1,10 @@
 [
-    {"tool": "Photoshop", "rate":"90"},
-    {"tool": "Illustrator", "rate":"80"},
-    {"tool": "InDesign", "rate":"45"},
-    {"tool": "Corel Draw", "rate":"60"},
-    {"tool": "React", "rate":"80"},
-    {"tool": "Redux", "rate":"75"}
+    {"tool": "Java", "rate":"90"},
+    {"tool": "PostgreSQL", "rate":"80"},
+    {"tool": "MySQL", "rate": "75"},
+    {"tool": "Spring", "rate":"75"},
+    {"tool": "SpringBoot", "rate":"75"},
+    {"tool": "Hibernate", "rate":"60"},
+    {"tool": "GitHub", "rate":"80"},
+    {"tool": "React", "rate":"75"}
 ]

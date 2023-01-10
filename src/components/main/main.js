@@ -1,6 +1,7 @@
 import React from 'react';
 import About from './about/about';
 import Intro from './about/intro/intro';
+import Educations from './education/educations';
 import Experiences from './experiences/experiences';
 import GetInTouch from './getintouch/get-in-touch';
 import "./main.css";
@@ -12,6 +13,7 @@ const Main = () => {
         <About/>
         <Experiences/>
         <GetInTouch/>
+        <Educations/>
     </div>
   )
 }
